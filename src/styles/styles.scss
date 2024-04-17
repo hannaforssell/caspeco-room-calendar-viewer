@@ -1,0 +1,52 @@
+#root {
+  background-color: #A3CCBE;
+}
+
+:root {
+  background-color: #A3CCBE;
+}
+
+.start-page-login {
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+
+.custom-container {
+  max-width: 600px !important;
+}
+
+.window-width {
+  width: 100vw;
+}
+
+.spinner {
+  position: fixed;
+  left: 45%;
+  top: 30%;
+}
+
+.nav-bar {
+  background-color: #4472C4;
+  color: #f2f2f2;
+  height: 400px;
+}
+
+.card-title {
+  text-align: start;
+}
+
+.card-content-status {
+  text-align: start;
+}
+
+.card-content-info {
+  display: flex;
+  justify-content: space-between;
+
+  .card-content-seats {
+    text-align: end;
+    color: #000 !important;
+    font-size: 25px;
+    font-weight: 500;
+  }
+}
